@@ -1,7 +1,7 @@
----
-title: Home
----
+## Welcome to the ICT Helpsite
 
-Nau mai (welcome) to the **Bachelor of Information Technology** help site. Whether you are a new ākonga (learner) or an existing one, this site provides you all the information you need to succeed in your studies at **Te Kura Matatini ki Otago (Otago Polytechnic)**.
+Welcome to Student ICT Help!
 
-To get started, use the ***Navigation*** feature on the left-hand side to find study-related information such as **IT Support**, **Student Success**, and much more.
+Whether you're a new student, or an existing one, and want to learn how to get started here at Otago Polytechnic, don't be afraid if you're stuck! That's what we're here for! To get started, simply use the search feature as provided above that is related to your question, in the form of a keyword(s). (i.e. "Forgot password")
+
+If you can't find a solution through this site, DON'T PANIC!!! Just click the 'Contact' tab as supplied above, to receive information on how to contact the Otago Polytechnic IT Helpdesk or BIT Project OPS & Security Team.
