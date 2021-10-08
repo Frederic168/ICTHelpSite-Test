@@ -18,6 +18,3 @@ disablePathToLower = true
     startLevel = 1
     endLevel = 9
 	
-[submodule "themes/hugo-geekdoc"]
-    path = themes/hugo-geekdoc
-    url = https://github.com/Frederic168/ICTHelpSite-Test
